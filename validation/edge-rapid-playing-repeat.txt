@@ -1,0 +1,1 @@
+running=1 frames=900 rapid_key_presses=300 static_changed_frames=0 board_border_missing_frames=0 border_baseline_pixels=510 paddle_center_min=391 paddle_center_max=571
